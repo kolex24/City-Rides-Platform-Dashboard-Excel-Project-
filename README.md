@@ -60,3 +60,6 @@ Active status generate 45% Fare($19,957.11) and Inactive Status generate 55% Far
 There's a high Distance_km in Los Angeles and Chicago to the other Cties 
 <img width="501" height="277" alt="image" src="https://github.com/user-attachments/assets/16b14ff2-7bc6-41f6-a400-ad488d403aa3" />
 
+##  Reccomendation
+• Since high Fare (Revenue) is generatd in Los Angeles Stakeholder should priotize from this cities and stakeholder should also look into city like Miami why low Fare is     generated from the cities, stakeholder should look at the factors contribute to the cities for having loweer Fare (revenue)
+• Stakeholder should into driver like Holly Li and  Andrew Weaver, what are the reason for drivers like Andrew Weaver having a lower Rating and Stakeholder shoild priotize driver like Holly Li for having a higher rating among the drivers.
