@@ -28,7 +28,8 @@ To explore and visualize ride-sharing across different cities, drivers and fare,
  ### Dashboard preview
 <img width="876" height="370" alt="dashboard png" src="https://github.com/user-attachments/assets/51a41867-6ca9-4240-86a5-9b97ff10a668" />
 
- 1.Fare by City:Los Angeles generated the highest Fare ($9,711.5) while Miami generated the lowest Fare(%8,305.4). There are High fare generated in Los Angeles and Chicago while the other cities generated  low fare.
+## Fare by city
+ Los Angeles generated the highest Fare ($9,711.5) while Miami generated the lowest Fare(%8,305.4). There are High fare generated in Los Angeles and Chicago while the other cities generated  low fare.
 <img width="788" height="413" alt="image" src="https://github.com/user-attachments/assets/a9f9c74f-a63a-43fd-b80e-e92e00ce488a" />
 
 
