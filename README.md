@@ -27,6 +27,13 @@ To explore and visualize ride-sharing across different cities, drivers and fare,
  This section present the key findings derived from the interactive dashboard.
  ### Dashboard preview
 <img width="876" height="370" alt="dashboard png" src="https://github.com/user-attachments/assets/51a41867-6ca9-4240-86a5-9b97ff10a668" />
+## Key Performance Indicator
+• Total Rides: 1000 rides are completed
+• Total Revenue: $44,560.47 was generated
+• Total Rating: 4255.8
+• Avg Rating: 4.3
+• Total Duration_min: 49,664
+• Avg Duration_min : **49.66**
 
 ## Fare by city
  Los Angeles generated the highest Fare ($9,711.5) while Miami generated the lowest Fare(%8,305.4). There are High fare generated in Los Angeles and Chicago while the other cities generated  low fare.
