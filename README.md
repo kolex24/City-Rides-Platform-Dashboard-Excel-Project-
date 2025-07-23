@@ -44,3 +44,11 @@ To explore and visualize ride-sharing across different cities, drivers and fare,
 Holly Li, Eric Greene, Amy Guzman, Aprill Rodriguez and Patrick Hall are the top 5 drivers with the highest Rating. Holly Li has the highest Rating among all the drivers (82.9) and Andrew Weaver has the lowest Rating (9.0) among all the drivers
 <img width="507" height="274" alt="image" src="https://github.com/user-attachments/assets/971e4f52-d2a1-4d67-9db9-5852227de0e9" />
 
+## Duration_min by City
+Los Angeles has the highest duration_min (11444) while San Francisco has the lowest Duration_min (9344)
+<img width="556" height="291" alt="image" src="https://github.com/user-attachments/assets/37a44095-76b4-43f7-946a-1b9afb6728d1" />
+
+## Fare by Promo code
+WELCOMES (11566.16) has the highest promo code given while SAVE20 has the lowest (10462.95)
+<img width="553" height="295" alt="image" src="https://github.com/user-attachments/assets/1e18cb24-eb06-4b63-98be-c98be44093c8" />
+
