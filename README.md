@@ -27,3 +27,6 @@ To explore and visualize ride-sharing across different cities, drivers and fare,
  This section present the key findings derived from the interactive dashboard.
  ### Dashboard preview
 <img width="876" height="370" alt="dashboard png" src="https://github.com/user-attachments/assets/51a41867-6ca9-4240-86a5-9b97ff10a668" />
+## Fare by City
+<img width="562" height="305" alt="image" src="https://github.com/user-attachments/assets/e856e612-05fb-48df-8475-3144787a1f69" />
+
