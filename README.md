@@ -26,4 +26,4 @@ To explore and visualize ride-sharing across different cities, drivers and fare,
  ### Analysis & Visualization
  This section present the key findings derived from the interactive dashboard.
  ### Dashboard preview
- ![Dashboard Screenshot](C:\Users\HELLO\Pictures\Screenshots)
+ ![Dashboard Screenshot]("C:\Users\HELLO\Pictures\Screenshots\Screenshot 2025-07-23 151023.png")
