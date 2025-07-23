@@ -52,3 +52,11 @@ Los Angeles has the highest duration_min (11444) while San Francisco has the low
 WELCOMES (11566.16) has the highest promo code given while SAVE20 has the lowest (10462.95)
 <img width="553" height="295" alt="image" src="https://github.com/user-attachments/assets/1e18cb24-eb06-4b63-98be-c98be44093c8" />
 
+## Fare by Status
+Active status generate 45% Fare($19,957.11) and Inactive Status generate 55% Fare ($24, 623.16)
+<img width="515" height="285" alt="image" src="https://github.com/user-attachments/assets/dcd8fe9c-acf2-4261-8fd0-b8d29547d498" />
+
+## Distance_km by City
+There's a high Distance_km in Los Angeles and Chicago to the other Cties 
+<img width="501" height="277" alt="image" src="https://github.com/user-attachments/assets/16b14ff2-7bc6-41f6-a400-ad488d403aa3" />
+
