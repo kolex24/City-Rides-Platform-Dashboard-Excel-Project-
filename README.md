@@ -3,11 +3,11 @@
 This project analyzes a fictional ride-sharing dataset to extract insights on revenue, ride behavior and driver performance using Excel. It replicates a real-world data analytics task often given in business intelligence roles.
 ### Objective
 To explore and visualize ride-sharing across different cities, drivers and fare, and to uncover insights that can help businesss stakeholders improve decision making regarding:
-        • 	Ride activity and revenue trends
-	•	Effectiveness of promo codes
-	•	Driver performance
-	•	Driver performance by city
-	•	Ride status performance (Active vs Inactive)
+        •  Ride activity and revenue trends
+	•  Effectiveness of promo codes
+	•  Driver performance
+	•  Driver performance by city
+	•  Ride status performance (Active vs Inactive)
  ### 🧾 Dataset Summary
   Two datasets were used:
 	•	Rides_Data: Contains ride-level data including fare, distance, duration, promo code, ride status, city, and rating.
@@ -29,12 +29,12 @@ To explore and visualize ride-sharing across different cities, drivers and fare,
 <img width="876" height="370" alt="dashboard png" src="https://github.com/user-attachments/assets/51a41867-6ca9-4240-86a5-9b97ff10a668" />
 
 ## Key Performance Indicator
-•Total Rides: 1000 rides are completed
-•Total Revenue: $44,560.47 was generated
-•Total Rating: 4255.8
-•Avg Rating: 4.3
-•Total Duration_min: 49,664
-•Avg Duration_min : 49.66
+• Total Rides: 1000 rides are completed
+• Total Revenue: $44,560.47 was generated
+• Total Rating: 4255.8
+• Avg Rating: 4.3
+• Total Duration_min: 49,664
+• Avg Duration_min : 49.66
 
 ## Fare by city
  Los Angeles generated the highest Fare ($9,711.5) while Miami generated the lowest Fare(%8,305.4). There are High fare generated in Los Angeles and Chicago while the other cities generated  low fare.
