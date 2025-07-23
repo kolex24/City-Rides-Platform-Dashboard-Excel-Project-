@@ -23,3 +23,7 @@ To explore and visualize ride-sharing across different cities, drivers and fare,
    Duration_min by city
    Total Rides
  • Calculated field for average fare, average duration e.t.c
+ ### Analysis & Visualization
+ This section present the key findings derived from the interactive dashboard.
+ ### Dashboard preview
+ C:\Users\HELLO\Pictures\Screenshots
