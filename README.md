@@ -40,4 +40,7 @@ To explore and visualize ride-sharing across different cities, drivers and fare,
  Los Angeles generated the highest Fare ($9,711.5) while Miami generated the lowest Fare(%8,305.4). There are High fare generated in Los Angeles and Chicago while the other cities generated  low fare.
 <img width="788" height="413" alt="image" src="https://github.com/user-attachments/assets/a9f9c74f-a63a-43fd-b80e-e92e00ce488a" />
 
+## Top 5 driver by Rating
+Holly Li, Eric Greene, Amy Guzman, Aprill Rodriguez and Patrick Hall are the top 5 drivers with the highest Rating. Holly Li has the highest Rating among all the drivers (82.9) and Andrew Weaver has the lowest Rating (9.0) among all the drivers
+<img width="507" height="274" alt="image" src="https://github.com/user-attachments/assets/971e4f52-d2a1-4d67-9db9-5852227de0e9" />
 
